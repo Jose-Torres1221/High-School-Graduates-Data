@@ -5,8 +5,6 @@ Collect data from people who have graduated high school and gather data about if
 
 ## Libraries Used
 Pandas : https://pandas.pydata.org/docs/
-Numpy : https://numpy.org/doc/
-Scipy : https://docs.scipy.org/doc/scipy/
 Pyplot : https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
 
 ## My Data License and Source of Data
