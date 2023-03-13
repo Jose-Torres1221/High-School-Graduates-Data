@@ -22,3 +22,7 @@ How prepared do you feel from high school? - Number from 1-10 for how student fe
 
 ## Known Issues and Biases
 Improving the survey questions to make answers more specific and less full of errors, I still had to create specific filters that would not work for different data sets. Also most of the data came form UT students because the survey was posted on my Instagram.
+
+
+## Published Data Set
+https://data.world/jtorres1221/hcds-assignment-7
